@@ -9,11 +9,11 @@
 
 - 💬 Before coding **I used to work in marketing industry during 7 years**
 
-- 📫 How to reach me **demaret.cha@gmail.com**
+- 📫 You can reach me there **demaret.cha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iluT_TrH-ujb3uubNiDTmfWg0zQIRGrM/view?usp=sharing](https://drive.google.com/file/d/1iluT_TrH-ujb3uubNiDTmfWg0zQIRGrM/view?usp=sharing)
+- 📄 Know about[my experiences](https://drive.google.com/file/d/1iluT_TrH-ujb3uubNiDTmfWg0zQIRGrM/view?usp=sharing)
 
-- ⚡ Fun fact **I talk a lot about food and wine 🤗**
+- ⚡ Fun fact : **I talk a lot about food and wine 🤗**
 
 
 <h3 align="left">Languages and Tools:</h3>
