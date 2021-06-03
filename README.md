@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React 🔥🔥🔥**
 
-- 👨‍💻 All of my projects are available at [www.charlottedemaret.com](www.charlottedemaret.com)
+- 👨‍💻 All of my projects are available on [my portfolio](www.charlottedemaret.com)
 
 - 💬 Before coding **I used to work in marketing industry during 7 years**
 
