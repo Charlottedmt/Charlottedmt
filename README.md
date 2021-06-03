@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [a website about natural wines](https://natural-wine.herokuapp.com/)
 
-- 🌱 I’m currently learning **React 🔥🔥🔥**
+- 🌱 I’m currently learning **React/React Native 🔥🔥🔥**
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://www.charlottedemaret.com)
 
-- 💬 Before coding **I used to work in marketing industry during 7 years**
+- 💬 Before coding **I used to work in marketing industry for 7 years**
 
 - 📫 You can reach me there **demaret.cha@gmail.com**
 
